@@ -1,0 +1,1 @@
+export { IPromiseError } from './IPromiseError';

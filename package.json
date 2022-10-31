@@ -1,0 +1,16 @@
+{
+    "name": "request-error-catcher",
+    "version": "0.1.0",
+    "description": "Gracefully fetch data from api",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ],
+    "scripts": {
+        "prettier-format": "prettier --config .prettierrc ./src/**/*.ts --write"
+    },
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}
