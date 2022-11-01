@@ -1,1 +1,1 @@
-export { IPromiseError } from './IPromiseError';
+export { IPromiseError } from './IRequestError';
