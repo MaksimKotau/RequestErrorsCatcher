@@ -11,8 +11,7 @@
         "prettier-format": "prettier --config .prettierrc ./src/**/*.ts --write",
         "test": "jest --colors",
         "test-coverage": "jest --coverage",
-        "build": "tsc",
-        "install": "npm run build"
+        "build": "tsc"
     },
     "devDependencies": {
         "@babel/core": "^7.19.6",
